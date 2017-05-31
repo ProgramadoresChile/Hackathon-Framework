@@ -11,9 +11,9 @@ Puedes pasarte horas enteras decidiendo en que lenguaje de programación hacerlo
 
 Esta vez será distinto ya que la comunidad Programadores Chile te va a ayudar un poco en esta tarea y puedas concentrarte en los aspectos importantes que van a diferenciarte del resto.
 
-<h4 align="center">Modern Theme</h4>
+<h4 align="center">Un Diseño Elegante</h4>
 
-![](https://lh6.googleusercontent.com/-KQTmCFNK6MM/U7OZpznjDuI/AAAAAAAAERc/h3jR27Uy1lE/w1366-h1006-no/Screenshot+2014-07-02+01.32.22.png)
+![](https://www.programadoreschile.org/assets/img/github-hackathon-home.png)
 
 <h4 align="center">Flatly Bootstrap Theme</h4>
 
