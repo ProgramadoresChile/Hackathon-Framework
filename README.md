@@ -3,7 +3,7 @@ Hackathon Framework
 
 **Live Demo**: http://hackathonstarter-sahat.rhcloud.com
 
-A boilerplate for **Node.js** web applications.
+Aplicación en **Node.js** para crear prototipos funcionales en Hackathons
 
 Si has asistido a cualquier hackathon en el pasado, debes saber todo el tiempo que demora levantar un proyecto desde cero.
 
