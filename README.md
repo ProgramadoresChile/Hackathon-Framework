@@ -15,13 +15,9 @@ Esta vez será distinto ya que la comunidad Programadores Chile te va a ayudar u
 
 ![](https://www.programadoreschile.org/assets/img/github-hackathon-home.png)
 
-<h4 align="center">Flatly Bootstrap Theme</h4>
+<h4 align="center">Ejemplos API</h4>
 
-![](https://lh5.googleusercontent.com/-oJ-7bSYisRY/U1a-WhK_LoI/AAAAAAAAECM/a04fVYgefzw/w1474-h1098-no/Screen+Shot+2014-04-22+at+3.08.33+PM.png)
-
-<h4 align="center">API Examples</h4>
-
-![](https://lh5.googleusercontent.com/-BJD2wK8CvC8/VLodBsyL-NI/AAAAAAAAEx0/SafE6o_qq_I/w1818-h1186-no/Screenshot%2B2015-01-17%2B00.25.49.png)
+![](https://www.programadoreschile.org/assets/img/github-hackathon-home2.png)
 
 Table of Contents
 -----------------
